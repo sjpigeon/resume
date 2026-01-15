@@ -1,4 +1,5 @@
 name: Build and Deploy Jekyll
+# Workflow triggers on push to master branch
 
 on:
   push:
