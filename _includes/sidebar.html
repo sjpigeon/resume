@@ -23,6 +23,14 @@
     {% include education.html %}
   {% endif %}
 
+  {% if sidebar.certifications %}
+    {% include certifications.html %}
+  {% endif %}
+
+  {% if sidebar.skills %}
+    {% include skills.html %}
+  {% endif %}
+
   {% include language.html %}
   {% include interests.html %}
 
