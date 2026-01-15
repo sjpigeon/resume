@@ -98,15 +98,15 @@ education:
   #      - Bullet point
 certifications:
   title: Certifications
-  list:
+  info:
   - name: PMI Agile Certified Practitioner (PMI-ACP)
-  - link: https://www.credly.com/badges/1251e36a-65a1-4e2b-9e9f-14615d05caab
+    link: https://www.credly.com/badges/1251e36a-65a1-4e2b-9e9f-14615d05caab
   - name: AWS Certified Cloud Practitioner
     link: https://www.credly.com/badges/a62a4347-5c81-490d-aa29-cd89e12e708e/linked_in_profile
   - name: Certified ScrumMaster (CSM)
-  - link: https://certification.scrumalliance.org/accounts/16598-scott-pigeon/certifications/17153-csm
-  - name: AI for ScrumMasters 
-  - link: https://certification.scrumalliance.org/accounts/16598-scott-pigeon/certifications/2114838-microcredential
+    link: https://certification.scrumalliance.org/accounts/16598-scott-pigeon/certifications/17153-csm
+  - name: AI for ScrumMasters
+    link: https://certification.scrumalliance.org/accounts/16598-scott-pigeon/certifications/2114838-microcredential
 experiences:
   title: Experiences
   info:
