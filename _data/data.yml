@@ -100,44 +100,56 @@ education:
 experiences:
   title: Experiences
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Director Technical Program Management
+    time: 2022 - 2025
+    company: Salesforce - Bellevue, WA
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-  - role: Senior Software Engineer
+      - Orchestrated the Falcon Scale & Growth In-Place program to reduce growth in annual AWS-spend. Consolidated disparate workstreams into a single strategic initiative to right-size AWS infrastructure for Salesforce Core. Secured formal program funding by advocating to the TPM Leadership Team and drove the program through ideation and conception by partnering with Architects and Engineering VPs to identify workstreams, recruit ownership and enable development. Enabled a seamless handoff to a more senior TPM for execution through clear and concise documentation.
+      - Spearheaded the Salesforce-wide Export Control Classification Number Compliance program, leading a cross-functional team of service owners, security engineers, legal compliance experts to engage over 1,000 participants across all business units under the CEO. Achieved 96% program completion by improvising communication and implementation plans, successfully enabling Salesforce to fulfill its Global Trade Policy and mitigate the risk of export control violations.
+      - Led program to update Terraform and AWS library updates across 300+ components in 5 separate environments by implementing centralized automation and focused customer-outreach and concierge services. Reduced developer toil while enabling Salesforce to fulfill contractual obligations.
+      - Established scalable processes as part of the Leadership Team for the 3rd Party Products program, empowering over 12 engineering teams to execute across 6 distinct workstreams. Drove release planning, feature prioritization, and decision-making for executive reviews, leading to an improved security posture across the Salesforce technology stack.
+      - Mentored 3 Active-Duty Military personnel as they transitioned to the private sector and represented SF at Military recruiting and informational events.
+  - role: Senior Staff Engineer
+    time: 2018 - 2022
+    company: Climate Corporation - Seattle, WA
+    details: |
+      - As a Senior Staff Engineer on the Cloud Engineering Team, spearheaded critical Amazon Web Services cloud infrastructure programs including Secure Perimeter, Encryption Backfill, and Disaster Recovery, ensuring 100% compliance with Bayer audit requirements and improving platform resiliency. Implemented developer platform features with python.
+      - Acted as Product Manager for new cloud infrastructure initiatives, driving SDLC from ideation through launch. Delivered scalable services that enabled high availability, data protection, and adherence to governance standards.
+      - Revitalized at-risk programs by serving as Agile Coach, customer advocate, and technical program lead, reducing technical debt and aligning engineering efforts with long-term architectural health goals.
+      - Assumed management of existing vendor program 6 engineers, led the project review and cancellation of 1 contract to implement AI for live-site incidents, saving $500,000 and reducing developer toil by improving usage of existing PagerDuty tooling through configuration changes and process optimization.
+      - Assumed management of existing vendor program of 20+ engineers, led the project review and cancellation of 1 contact to migrate legacy services to New Relic Application Performance Management, saving $250,000 and potential litigation by documenting how the vendor did not fulfill the definition of done.
+      - Staffed and led a vendor program and that successfully implemented of DataDog Application Performance Management for 50+ services with zero production outages and minimal developer randomization by staffing a team of 10 vendor engineers.
+  - role: Principal Product Manager
+    time: 2017 - 2018
+    company: Brooksource - Seattle, WA
+    details: |
+      - As a DevOps Technical Program Manager Consultant at Samsung Electronics of America, enabled CI/CD operations for large-scale infrastructure programs, supporting automated testing and deployment processes that improved system integration efficiency. Partnered with cross-functional engineering teams to streamline DevOps pipelines, reduce manual toil, and enhance architectural health for rapid product delivery.
+      -As a Principal Product Manager Consultant at Providence Health & Services, led platform and data architecture design for Microsoft Dynamics CRM migration into Azure, improving cloud infrastructure scalability and developer efficiency by 50% through resource staffing, organizational alignment, introduction of Agile methodologies, and customer focused engagement.
+      - As a Principal Product Manager Consultant for McGraw-Hill Education's Cloud Operation and Automation team, improved delivery cloud services and tools by 50% by partnering with customer engineering teams to enact processes that improve business efficiency and distill requirements into capabilities that fulfill business needs. Led technical design efforts to build capabilities while accounting for AWS Best Practices and MHE Architectural Standards. Developed and executed strategies for engaging early adopters/customers, created channels to enable new features ideas, enhancement suggestions and other feedback for CE&A deliverables. Created and published the product roadmap with prioritized features, deliverables, and documented business value, gaining alignment across multiple engineering leadership teams on priorities, resources and technical direction. Successfully led the CI/CD Engineering Team through Agile transformation, providing guidance during culture adoption and methodology implementation while delivering on product commitments.
+  - role: Cloud Technical Product Manager
+    time: 2015 - 2017
+    company: Change Healthcare - Seattle, WA
+    details: |
+      - As Cloud Technical Product Manager for Change Healthcare's next generation Amazon Web Services infrastructure (Cloud 2.0), lead the 9 month design, development and Oct '16 General Availability/deployment of a business critical, automated, resilient, regulatory compliant and auditable AWS environment that enables migration of high- value applications from on-prem into the Cloud. 
+      - Created and owned product strategies, product design principles and the 12-month Product Roadmap while aligning customer needs with business goals, prioritizing features, scheduling deliverables and evaluating applicability of AWS technologies, aided with decisions involving tradeoffs/constraints. 
+      - Collaborated with Engineering Leadership, Information Security, Networking, internal application teams and AWS Professional Services, gathering regulatory requirements, use cases and best practices that focused development efforts to build and deliver a resilient, regulatory compliant and auditable infrastructure environment. 
+      - Designed features from conception to final draft by taking feedback from customers, building workflows, documenting Proof-of-Concepts in Spikes and actively working with developers to build the POC and update design specifications to enable the team to build and deliver. 
+      -Lead a team of 7 developers and 1 tech writer, managing day-to-day activities with Agile processes, making design decisions, publishing project status and developing content to communicate implementation details and customer usage patterns for Cloud 2.0. 
+  - role: ScrumMaster/Project Manager
     time: 2014 - 2015
-    company: Google, London
+    company: McGraw-Hill Education - Seattle, WA
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
+      - As ScrumMaster for Acuity and SYNC projects and Project Manager for GAIN Performance Team, increased developer throughput by 25% by consistently removing impediments ensuring focus and timely delivery of committed deliverables.
+      - Improved engineering efficiency by 75% by operationalizing performance validation for the Georgia and Indiana Department of Education summative end-of-grade assessment systems. Gathered business requirements from Product Management, conceptualized and implemented a performance environment with Cloud Engineering, built load/performance models with Architects, managed execution with QA and Development Teams, analyzed results and drove performance enhancements/bug fixes through engineering teams for implementation into the customer-facing product. 
+  - role: Senior Program Manager
+    time: 1998 - 2014
+    company: Microsoft - Redmond, WA
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-
+      - As a Senior Technical Program Manager, reduced Azure Operating System deployment time by 400% as the number of targets increased by 100% by creating a new deployment workflow by developing automated and streamlined processes. Collected and published deployment data, enabling visibility and resulting in increased development resources to diagnose issues, perform root cause analysis and implement fixes at an architectural level. Increased capability within the Microsoft Azure Core Compute Teams by 50% by spearheading deployment orchestration via daily stand-ups that enabled faster, more efficient deployments through a pragmatic approach to deployments by applying priority for component deployments (Fabric, Networking, Storage, OS) versus rigid scheduling, taking into consideration technical dependencies and driving for decisions to back-out an unsuccessful/hung deployment. Proactively addressed technical risks conflicts by creating an order-of-operations for highly impactful, multi-component deployments. 
+      - As a Senior Technical Program Manager, accelerated the Windows Phone Kit release cadence by 300% by implementing Agile methodologies to develop a new partner release workflow, enabling product-wide programs with OEM and Telecom operators that resulted in WP platform improvements and reduced OEM development costs. Developed source code scanning tools and complementary processes to fulfill compliance programs. 
+      - As a Senior Technical Project Manager, delivered multiple Visual Studio releases to customers by planning and executing large divisional projects in with feature deliverables by 20+ development teams and 1800+ engineering staff. Developed the project schedule and KPIs by aligning product themes with development team deliverables. Enabled executive oversight and coached teams to meet schedule commitments with project reviews and global status communication that provided measurement against project goals alongside risk and issue mitigation efforts. Oversaw the divisional project management system to ensure alignment of tooling and processes. Earned the Microsoft Gold Star Award.
+      - As a DevOps Technical Program Manager, achieved a 75% reduction in cross-team feature development time by leading team of 20+ DevOps Engineers to create and drive towards a divisional integration schedule, perform source code integrations, standardize processes, fulfill KPIs, develop best-practices and automation to reduce costs and increase sustainable integration velocity. Enabled the successful delivery of Visual Studio 2005 and 2008 releases to customers by enabling teams to build downstream development schedules, publishing divisional status reports to highlight successes and risks to the broader division and drive impactful issues to closure. 
+      - As a Software Test Manager, enabled successfully delivery of multiple Windows releases by leading a team of 20 engineers, consisting of 4 Leads and 16 Engineers, performing performance reviews, making staffing decisions, growing individuals in their careers, managing the test lab environment. Earned a Microsoft Gold Star Award by developing tests for all COM+ QFEs, filing scenario gaps and preventing customer impacting regressions in subsequent releases. 
 certifications:
   title: Certifications
   list:
