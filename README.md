@@ -25,10 +25,10 @@ I have made this into a Jekyll Theme. Checkout the live demo [here](https://onli
 
 ## Installation
 
-* [Fork](https://github.com/sharu725/online-cv/fork) the repository;
+* Clone the repository to your local machine;
 * Go to settings and set master branch as Github Pages source;
-* Your new site should be ready at `https://<username>.github.io/online-cv/`;
-* Printable version of the site can be found at `https://<username>.github.io/online-cv/print`. Use a third party link https://pdflayer.com/, https://www.web2pdfconvert.com/ etc to get the printable PDF.
+* Your new site should be ready at `https://<username>.github.io/resume/`;
+* Printable version of the site can be found at `https://<username>.github.io/resume/print`. Use a third party link https://pdflayer.com/, https://www.web2pdfconvert.com/ etc to get the printable PDF.
 
 Change all the details from one place: `_data/data.yml`.
 
@@ -46,7 +46,7 @@ Changes *_data/data.yml* will be visible after a while.
 * Get the repo into your machine 
 
 ```bash
-git clone https://github.com/sharu725/online-cv.git
+git clone https://github.com/sjpigeon/resume.git
 ```
 
 * Install required ruby gems
@@ -78,13 +78,8 @@ There are 6 color schemes available:
 
 ## Credits
 
-Thanks to [Nelson Estevão](https://github.com/nelsonmestevao) for all the [contributions](https://github.com/sharu725/online-cv/commits?author=nelsonmestevao).
-
-Thanks to [t-h-e(sfrost)](https://github.com/t-h-e) for all the [contributions](https://github.com/sharu725/online-cv/commits?author=t-h-e).
+Thanks to the original theme creators and contributors at [3rd Wave Media](http://themes.3rdwavemedia.com/).
 
 Check out for more themes: [**Jekyll Themes**](http://jekyll-themes.com).
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=sharu725/online-cv&type=Date)](https://star-history.com/#sharu725/online-cv&Date)
 
