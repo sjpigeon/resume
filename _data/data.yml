@@ -20,12 +20,14 @@ sidebar:
   timezone: America/Pacific # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   #website: https://example.com/ # Include the full website URL, including "http://" or "https://".
   linkedin: https://www.linkedin.com/in/scott-pigeon-b767514/
-  education:
+
+education:
   title: Education
   info:
   - degree: BS in Economics
     university: University of Washington
   #  time: 2011 - 2012
+
 certifications:
   title: Certifications
   info:
