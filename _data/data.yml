@@ -69,9 +69,9 @@ experiences:
   info:
   - role: Director Technical Program Management
     time: 2022 - 2025
-    company: Salesforce - Bellevue, WA
+    company: Salesforce - Bellevue, WA 
     details: |
-      - Orchestrated the Falcon Scale & Growth In-Place program to reduce growth in annual AWS-spend. Consolidated disparate workstreams into a single strategic initiative to right-size AWS infrastructure for Salesforce Core. Secured formal program funding by advocating to the TPM Leadership Team and drove the program through ideation and conception by partnering with Architects and Engineering VPs to identify workstreams, recruit ownership and enable development. Enabled a seamless handoff to a more senior TPM for execution through clear and concise documentation.
+      - Orchestrated the Falcon Scale & Growth In-Place program to reduce growth in annual AWS-spend. Partnered with Architects through ideation to identify workstreams, recruit ownership and enable development. Consolidated disparate workstreams into a single strategic initiative and secured formal program funding by advocating to the TPM Leadership Team. Enabled a seamless handoff to a more senior TPM for execution through clear and concise documentation.
       - Spearheaded the Salesforce-wide Export Control Classification Number Compliance program, leading a cross-functional team of service owners, security engineers, legal compliance experts to engage over 1,000 participants across all business units under the CEO. Achieved 96% program completion by improvising communication and implementation plans, successfully enabling Salesforce to fulfill its Global Trade Policy and mitigate the risk of export control violations.
       - Led program to update Terraform and AWS library updates across 300+ components in 5 separate environments by implementing centralized automation and focused customer-outreach and concierge services. Reduced developer toil while enabling Salesforce to fulfill contractual obligations.
       - Established scalable processes as part of the Leadership Team for the 3rd Party Products program, empowering over 12 engineering teams to execute across 6 distinct workstreams. Drove release planning, feature prioritization, and decision-making for executive reviews, leading to an improved security posture across the Salesforce technology stack.
@@ -141,6 +141,6 @@ experiences:
 #   - title: Delta
 #     link: "#"
 #     tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-skills:
-  title: Skills #&amp; Proficiencies
+#
+#skills:
+#  title: Skills #&amp; Proficiencies
