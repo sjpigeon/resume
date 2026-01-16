@@ -11,7 +11,9 @@ layout: default
 
 {% include experiences.html %}
 
-{% include certifications.html %}
+{% unless site.data.data.sidebar.certifications %}
+  {% include certifications.html %}
+{% endunless %}
 
 {% include projects.html %}
 
@@ -21,4 +23,6 @@ layout: default
 
 {% include recommendations.html %}
 
-{% include skills.html %}
+{% unless site.data.data.sidebar.skills %}
+  {% include skills.html %}
+{% endunless %}
