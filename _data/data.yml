@@ -4,7 +4,7 @@
 
 sidebar:
   position: right # position of the sidebar : left or right
-  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
   education: True # set to False if you want education in main section instead of in sidebar
   certifications: True # set to False if you want certifications in main section instead of in sidebar
   skills: True # set to False if you want certifications in main section instead of in sidebar
@@ -16,17 +16,87 @@ sidebar:
 
   # Sidebar links
   email: sjpigeon@msn.com
-  phone: +1 425 445-6599
+  phone: 1.425.445.6599
   timezone: America/Pacific # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   #citizenship:
   #website: https://example.com/ # Include the full website URL, including "http://" or "https://".
   linkedin: https://www.linkedin.com/in/scott-pigeon-b767514/
+  #xing: alandoe
+  #github: jekyll
+  #telegram: # add your nickname without '@' sign
+  #gitlab:
+  #bitbucket:
+  #bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
+  #twitter: '@jekyllrb'
+  #stack-overflow: # Number/Username, e.g. 123456/alandoe
+  #codewars:
+  #goodreads: # Number-Username, e.g. 123456-alandoe
+  #mastodon: # Please include your full Mastodon link here.
+  #hackerrank: # Please provide your HackerRank username.
+  #leetcode: # Please provide your LeetCode username.
+  #pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+#
+  #languages:
+  #  title: Languages
+  #  info:
+  #  - idiom: English
+  #    level: Native
+#
+ #   - idiom: French
+  #    level: Professional
+  #
+  #  - idiom: Spanish
+  #    level: Professional
+
+  #interests:
+  #  title: Interests
+  #  info:
+  #  - item: Climbing
+  #    link:
+#
+#
+  #  - item: Snowboarding
+  #    link:
+#
+#
+  #  - item: Cooking
+  #    link:
 education:
   title: Education
   info:
   - degree: BS in Economics
     university: University of Washington
   #  time: 2011 - 2012
+  #  details: |
+  #    Describe your study here lorem ipsum dolor sit amet, consectetuer
+  #    adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+  #    sociis natoque penatibus et magnis dis parturient montes, nascetur
+  #    ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+  #    pretium quis, sem.
+  #      - Bullet point
+  #      - Bullet point
+  #- degree: BSc in Applied Mathematics
+  #  university: Bristol University
+  #  time: 2007 - 2011
+  #  details: |
+  #    Describe your study here lorem ipsum dolor sit amet, consectetuer
+  #    adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+  #    sociis natoque penatibus et magnis dis parturient montes, nascetur
+  #    ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+  #    pretium quis, sem.
+  #      - Bullet point
+  #      - Bullet point
+certifications:
+  title: Certifications
+  info:
+  - name: PMI Agile Certified Practitioner (PMI-ACP)
+    link: https://www.credly.com/badges/1251e36a-65a1-4e2b-9e9f-14615d05caab
+  - name: AWS Certified Cloud Practitioner
+    link: https://www.credly.com/badges/a62a4347-5c81-490d-aa29-cd89e12e708e/linked_in_profile
+  - name: Certified ScrumMaster (CSM)
+    link: https://certification.scrumalliance.org/accounts/16598-scott-pigeon/certifications/17153-csm
+  - name: AI for ScrumMasters
+    link: https://certification.scrumalliance.org/accounts/16598-scott-pigeon/certifications/2114838-microcredential
 skills:
   title: Skills
   info: TBD
@@ -93,6 +163,47 @@ experiences:
       - As a Senior Technical Project Manager, delivered multiple Visual Studio releases to customers by planning and executing large divisional projects in with feature deliverables by 20+ development teams and 1800+ engineering staff. Developed the project schedule and KPIs by aligning product themes with development team deliverables. Enabled executive oversight and coached teams to meet schedule commitments with project reviews and global status communication that provided measurement against project goals alongside risk and issue mitigation efforts. Oversaw the divisional project management system to ensure alignment of tooling and processes. Earned the Microsoft Gold Star Award.
       - As a DevOps Technical Program Manager, achieved a 75% reduction in cross-team feature development time by leading team of 20+ DevOps Engineers to create and drive towards a divisional integration schedule, perform source code integrations, standardize processes, fulfill KPIs, develop best-practices and automation to reduce costs and increase sustainable integration velocity. Enabled the successful delivery of Visual Studio 2005 and 2008 releases to customers by enabling teams to build downstream development schedules, publishing divisional status reports to highlight successes and risks to the broader division and drive impactful issues to closure. 
       - As a Software Test Manager, enabled successfully delivery of multiple Windows releases by leading a team of 20 engineers, consisting of 4 Leads and 16 Engineers, performing performance reviews, making staffing decisions, growing individuals in their careers, managing the test lab environment. Earned a Microsoft Gold Star Award by developing tests for all COM+ QFEs, filing scenario gaps and preventing customer impacting regressions in subsequent releases. 
+# certifications:
+#   title: Certifications
+#   list:
+#   - name: PMI Agile Certified Practitioner (PMI-ACP)
+#     start: 2020
+#     end: 2021
+#     organization: Microsoft
+#     credentialid: 111-222
+#     credentialurl: www.google.com
+#     credentialname: Google
+#     details: |
+#       Details about cert. Lorem ipsum dolor sit amet, consectetur
+#       adipiscing elit.
+#       Nullam eget orci purus. Nullam ultrices neque nibh.
+#       Aenean fermentum, felis vulputate suscipit accumsan,
+#       sem enim bibendum augue, sed convallis arcu lacus at dui.
+#       Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+#       Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+#         Praesent venenatis erat non augue suscipit consectetur.
+# 
+#       Second paragraph. Sed eleifend enim ante, vitae efficitur purus
+#       fringilla vel. Ut euismod, sem sed vulputate venenatis,
+#       justo diam viverra velit, sed rhoncus leo leo eu justo.
+#       Suspendisse placerat risus ante, sed porta nisi blandit at.
+#   - name: Git learning
+#     start: 2019
+#     end:
+#     organization: Microsoft
+#     credentialid: 111-222
+#     credentialurl: www.github.com
+#     credentialname: Github
+#     details: |
+#       Older certification. Lorem ipsum dolor sit amet, consectetur
+#       adipiscing elit.
+#       Nullam eget orci purus. Nullam ultrices neque nibh.
+#       Aenean fermentum, felis vulputate suscipit accumsan,
+#       sem enim bibendum augue, sed convallis arcu lacus at dui.
+#       Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+#         Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+#       Praesent venenatis erat non augue suscipit consectetur.
+
 # projects:
 #   title: Projects
 #   intro: >
@@ -117,5 +228,18 @@ experiences:
 #   - title: Delta
 #     link: "#"
 #     tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+skills:
+  title: Skills #&amp; Proficiency
+
+
+#   toolset:
+#   - name: Python & Django
+#     level: 98%
+# 
+#   - name: Javascript & jQuery
+#     level: 98%
+
+
 # footer: >
 #   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
