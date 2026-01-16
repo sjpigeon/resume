@@ -10,9 +10,9 @@
     {% for cert in certifications.info %}
     <div class="item">
       {% if cert.link %}
-        <h4 class="degree"><a href="{{ cert.link }}" target="_blank" rel="noopener noreferrer">{{ cert.name }}</a></h4>
+        <span class="degree"><a href="{{ cert.link }}" target="_blank" rel="noopener noreferrer">{{ cert.name }}</a></span>
       {% else %}
-        <h4 class="degree">{{ cert.name }}</h4>
+        <span class="degree">{{ cert.name }}</span>
       {% endif %}
     </div><!--//item-->
     {% endfor %}
