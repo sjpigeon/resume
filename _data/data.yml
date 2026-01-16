@@ -39,7 +39,21 @@ certifications:
     link: https://certification.scrumalliance.org/accounts/16598-scott-pigeon/certifications/2114838-microcredential
 skills:
   title: Skills
-  info: Technical Project Leadership, Cross-functional Team Leadership, Program Management, Product Management, Developer Experience, Agile Methodologies, Scrum, SDLC, Cloud Computing, Amazon Web Services (AWS), Written and Verbal Communication, Relationship Building, Analysis and Problem-Solving, Scalable Systems
+  info:
+  - name: Technical Project Leadership
+  - name: Cross-functional Team Leadership
+  - name: Program Management
+  - name: Product Management
+  - name: Developer Experience
+  - name: Agile Methodologies
+  - name: Scrum
+  - name: SDLC
+  - name: Cloud Computing
+  - name: Amazon Web Services (AWS)
+  - name: Written and Verbal Communication
+  - name: Relationship Building
+  - name: Analysis and Problem-Solving
+  - name: Scalable Systems
 career-profile:
   title: Career Profile
   summary: |
