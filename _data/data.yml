@@ -33,7 +33,7 @@ certifications:
   info:
   - name: PMI Agile Certified Practitioner (PMI-ACP)
     link: https://www.credly.com/badges/1251e36a-65a1-4e2b-9e9f-14615d05caab
-  - name: AWS Certified Cloud Practitioner
+  - name: AWS Certified AI Practitioner
     link: https://www.credly.com/badges/a62a4347-5c81-490d-aa29-cd89e12e708e/linked_in_profile
   - name: Certified ScrumMaster (CSM)
     link: https://certification.scrumalliance.org/accounts/16598-scott-pigeon/certifications/17153-csm
@@ -80,14 +80,14 @@ experiences:
       - Mentored 3 Active-Duty Military personnel as they transitioned to the private sector and represented SF at Military recruiting and informational events.
   - role: Senior Staff Engineer
     time: 2018 - 2022
-    company: Climate Corporation - Seattle, WA
+    company: Bayer Crop Science - Seattle, WA
     details: |
-      - As a Senior Staff Engineer on the Cloud Engineering Team, spearheaded critical Amazon Web Services cloud infrastructure programs including Secure Perimeter, Encryption Backfill, and Disaster Recovery, ensuring 100% compliance with Bayer audit requirements and improving platform resiliency. Implemented developer platform features with python.
+      - As a Senior Staff Engineer on the Digital Farming Solutions Cloud Engineering Team, spearheaded critical Amazon Web Services cloud infrastructure programs including Secure Perimeter, Encryption Backfill, and Disaster Recovery, ensuring 100% compliance with Bayer audit requirements and improving platform resiliency. Implemented developer platform features with python.
       - Acted as Product Manager for new cloud infrastructure initiatives, driving SDLC from ideation through launch. Delivered scalable services that enabled high availability, data protection, and adherence to governance standards.
       - Revitalized at-risk programs by serving as Agile Coach, customer advocate, and technical program lead, reducing technical debt and aligning engineering efforts with long-term architectural health goals.
-      - Assumed management of existing vendor program 6 engineers, led the project review and cancellation of 1 contract to implement AI for live-site incidents, saving $500,000 and reducing developer toil by improving usage of existing PagerDuty tooling through configuration changes and process optimization.
-      - Assumed management of existing vendor program of 20+ engineers, led the project review and cancellation of 1 contact to migrate legacy services to New Relic Application Performance Management, saving $250,000 and potential litigation by documenting how the vendor did not fulfill the definition of done.
-      - Staffed and led a vendor program and that successfully implemented of DataDog Application Performance Management for 50+ services with zero production outages and minimal developer randomization by staffing a team of 10 vendor engineers.
+      - Assumed management of existing vendor program 6 engineers, led the project review and cancellation of the contract to implement AI for live-site incidents, saving $500,000 and reducing developer toil by improving usage of existing PagerDuty tooling through configuration changes and process optimization.
+      - Assumed management of existing vendor program of 20+ engineers, led the project review and cancellation of the contact to migrate legacy services to New Relic Application Performance Management, saving $250,000 and potential litigation by documenting how the vendor did not fulfill the definition of done.
+      - Staffed and led a vendor program that successfully implemented DataDog Application Performance Management for 50+ services with zero production outages and minimal developer randomization.
   - role: Principal Product Manager
     time: 2017 - 2018
     company: Brooksource - Seattle, WA
